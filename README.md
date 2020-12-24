@@ -3,7 +3,7 @@
 ### 𝐇i 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-## I'm a Student, Friend, Competitive Programmer, and Developer!!
+## I'm a Student, Friend, Competitive Programmer and Developer!!
 - 👨‍💻 Primary coding language: Python
 - 🔭 I write programming blogs on [TheSchoolProgrammer.com](https://www.theschoolprogrammer.com)
 - 🌱 I’m currently learning everything 🤣
