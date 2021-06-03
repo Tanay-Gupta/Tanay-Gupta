@@ -7,7 +7,6 @@
 - 👨‍💻 Primary coding language: Python
 - 🔭 I write programming blogs on [TheSchoolProgrammer.com](https://www.theschoolprogrammer.com)
 - 🌱 I’m currently learning everything 🤣
-- 😄 Pronouns: He/Him
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤓 Fun Fact: I love to sketch and play games
 
