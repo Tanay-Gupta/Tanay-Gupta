@@ -4,7 +4,7 @@
 
 
 ## I'm a Student, Friend, Competitive Programmer and Developer!!
-- 👨‍💻 Primary coding language: Python
+- 👨‍💻 Primary coding language: Java & Dart
 - 🔭 I write programming blogs on [TheSchoolProgrammer.com](https://www.theschoolprogrammer.com)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
