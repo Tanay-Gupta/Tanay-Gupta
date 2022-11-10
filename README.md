@@ -41,7 +41,8 @@
 </a>
 
 
-  
+![](https://komarev.com/ghpvc/?username=tanay-gupta)
+
  ### Show some ❤️ by starring some of the repositories!
 
 
