@@ -5,7 +5,8 @@
 
 ## I'm a Student, Friend, Competitive Programmer and Developer!!
 - 👨‍💻 Primary coding language: Java & Dart
-- 🔭 I write programming blogs on [TheSchoolProgrammer.com](https://www.theschoolprogrammer.com)
+- 🔭 Portfolio Website
+[tanaygupta.tech](https://tanaygupta.tech)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤓 Fun Fact: I love to sketch and play games
