@@ -19,26 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanay-gupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=tanay-gupta&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
- 
-
-<a href="https://github.com/tanay-gupta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-gupta&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/tanay-gupta">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanay-gupta&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-
 
 ![](https://komarev.com/ghpvc/?username=tanay-gupta)
 
